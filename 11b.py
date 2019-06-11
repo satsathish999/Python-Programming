@@ -1,3 +1,3 @@
-a=input()
-a=a.split(" ")
-print(int(a[0])**int(a[1]))
+ac=input()
+ac=ac.split(" ")
+print(int(ac[0])**int(ac[1]))
