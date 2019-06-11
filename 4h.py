@@ -1,4 +1,4 @@
-b=int(input())
+bc=int(input())
 ac=input()
 ac=ac.split(" ")
 c=0
